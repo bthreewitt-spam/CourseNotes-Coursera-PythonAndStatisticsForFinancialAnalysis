@@ -1,1 +1,6 @@
-# CourseNotes-Coursera-Python_and_Statistic_for_Financial_Analysis
+# Course Notes
+Course: Python and Statistics for Financial Analysis
+From: The Hong Kong University of Science and Technology
+Offered Via: Coursera
+
+[Course Link](https://www.coursera.org/learn/python-statistics-financial-analysis)
